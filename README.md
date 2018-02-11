@@ -1,0 +1,4 @@
+# SpringSOAPTestSample
+SOAP Spring WS  
+
+
